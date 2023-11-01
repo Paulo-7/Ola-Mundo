@@ -1,1 +1,1 @@
-console.log("Somente explorado!")
+console.log("Somente explorando!")
